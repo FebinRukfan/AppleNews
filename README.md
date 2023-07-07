@@ -1,3 +1,3 @@
 # AppleNews
 
-This is an iOS app with SwiftUI that consumes new data in list and shows the details in a web view
+This is an iOS app with SwiftUI that consumes news data from public API in a list view and shows the details of the news in a web view.
